@@ -29,4 +29,4 @@ Please note that some older scripts in the first folder does not include comment
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/l1chy/my-python-journey.git](https://github.com/YOUR_USERNAME/my-python-journey.git)
+   git clone https://github.com/l1chy/my-python-journey.git
