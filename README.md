@@ -1,4 +1,4 @@
-# My Python Learning Journey
+# My Python Learning Journey ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white)
 
 Welcome to my central repository for Python development!
 This repository serves as a timeline of my programming growth, showcasing everything from my very first logic scripts to more complex structural refactoring and automation tools.
