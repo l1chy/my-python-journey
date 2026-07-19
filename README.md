@@ -12,7 +12,7 @@ Please note that some older scripts in the first folder does not include comment
 
 *   `01_beginner_games/` — Interactive CLI games focusing on core logic, timing mechanics, and conditional workflows. (Not updated, some scripts are 3+ years old)
 *   `02_automation_scripts/` — Small-scale automation.
-*   `03_security/` — Basic scripts experimenting with encryption, hashing, and scripting logic.
+*   `03_security/ [WILL ADD SOON]` — Basic scripts experimenting with encryption, hashing, and scripting logic.
 
 ---
 
