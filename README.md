@@ -4,7 +4,7 @@ Welcome to my central repository for Python development!
 This repository serves as a timeline of my programming growth, showcasing everything from my very first logic scripts to more complex structural refactoring and automation tools.
 
 I built this sandbox to document not just working code, but the *why* behind my architectural decisions, optimization choices, and problem-solving methodology.
-Please note that some older scripts in the first folder does not include comments since most of them were mere tasks to exercise what I learned.
+Please note that some older scripts in the first folder does not include comments since most of them were mere tasks to exercise what I learned back in 2024.
 
 ---
 
