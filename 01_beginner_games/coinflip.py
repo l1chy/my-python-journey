@@ -1,3 +1,5 @@
+# Try your luck :)
+
 import random
 
 print("Guess the coinflip!"+f"\n{'-'*20}"+"\nEnter 1 for heads\nor 2 for tails.\n")
