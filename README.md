@@ -1,6 +1,6 @@
-# My Python Learning Journey ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white)
+# My Python Learning Journey
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white)
 
-Welcome to my central repository for Python development!
 This repository serves as a timeline of my programming growth, showcasing everything from my very first logic scripts to more complex structural refactoring and automation tools.
 
 I built this sandbox to document not just working code, but the *why* behind my architectural decisions, optimization choices, and problem-solving methodology.
@@ -22,11 +22,3 @@ Please note that some older scripts in the first folder does not include comment
 - [x] Implement clean code documentation practices for code reviewers (Some scripts do not include this).
 - [ ] Explore algorithms, file I/O operations, and system automation.
 - [ ] Integrity testing and basic security script implementations.
-
----
-
-## 💻 How to Run These Scripts
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/l1chy/my-python-journey.git
